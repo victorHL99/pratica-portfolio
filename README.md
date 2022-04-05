@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+<br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/50887367/100883923-a6e62380-348f-11eb-9b2b-bd6ba903c488.png" alt="Logo" width="800">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Página de Porfólio by <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a></h3>
+ <br />
+  <p align="center">
+    Página para mostrar seu talento à comunidade!
+       <br />
+    <br />
+    <a href="https://github.com/devchallenge-io/one-landing-page">Desafio</a>
+    ·
+    <a href="https://www.devchallenge.com.br/">DevChallenge</a>
+  </p>
+</p>
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+* [Devchallenge](#devchallenge) 
+* [Desafio](#desafio)
+* [Techs](#techs)
+* [Como começar](#como-começar)
+* [Dicas](#dicas)  
+  * [Cores](#cores)
+  * [Modelo](#modelo)
+  * [Imagens](#imagens)
+  * [Icones](#icones)
+  * [Tipo de fonte](#tipo-de-fonte)
+* [Compartilhe](#compartilhe)
 
-### `npm start`
+# Devchallenge
+<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Desafio
+Seu desafio é criar uma página que servirá de portfólio para apresentar seu trabalho à comunidade. O modelo final está disponível na pasta "design".
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Requisitos:
+- Sua página deverá conter um menu superior com as seções do site (stacks, projects e about me)<br>
+- Sua página deverá contar as suas informaçes, como: Apresentação sobre si, projetos que efetuou, redes sociais e cargo<br>
 
-### `npm test`
+### Requisitos bônus
+- Você poderá adicionar uma foto sua para te conhecerem melhor.
+- Você poderá utilizar grid para posicionar os elementos na tela.
+- Você poderá adicionar mais stacks.
+- Você poderá adicionar uma área com o feedback de pessoas que trabalharam com você.
+- Você poderá adicionar um form para entrarem em contato com você.
+- Você poderá fazer a versão responsiva da página.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Techs: 
+- HTML e CSS
+- Framework ou linguagem que preferir :)
 
-### `npm run build`
+# Como começar:
+1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
+2 - Leia as instruções no readme.md<br>
+3 - Comece a codar! Sinta-se livre para utilizar o fluxo de trabalho que ache mais confortável<br>
+4 - Compartilhe seu resultado com a comunidade! Se puder, mostre seus resultado aqui no repositório também, criando uma Issue :)<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Dicas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Cores:
+Verde: 23BE53<br>
+Preto: #060608<br>
+Cinza: #333333<br>
+Para as fontes: #E7DFDD
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Modelo:
+O modelo final está disponível na pasta `./design`
 
-### `npm run eject`
+## Imagens
+As imagens utilizadas estão disponíveis na pasta `./assets`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Icones
+Para os ícones, recomendamos que utilize alguma biblioteca, como o Font Awesome
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tipo de fonte:
+- Inter
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Compartilhe!
+Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
+Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desafio criado por  <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a> :)
